@@ -1,0 +1,5 @@
+npx create-next-app protfolio
+
+
+npm i lucide-react
+for symbols
